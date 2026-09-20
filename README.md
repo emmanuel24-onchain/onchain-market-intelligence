@@ -2,7 +2,7 @@
 
 ## Crypto Markets · On-Chain Intelligence · Market Technology
 
-I research what happens beneath the chart — how liquidity, capital flows, wallet behavior, transactions, holder structure, and market participants interact to shape on-chain markets.
+Exploring research what happens beneath the chart — how liquidity, capital flows, wallet behavior, transactions, holder structure, and market participants interact to shape on-chain markets.
 
 The work focuses on turning raw blockchain activity into structured intelligence: finding patterns, investigating behavior, testing hypotheses, and building tools around the research.
 
