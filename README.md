@@ -25,13 +25,11 @@ The objective is to investigate what is happening in crypto markets, understand 
 
 ## Projects
 
-### Launch Intelligence
+### ### Launch Intelligence
 
 An independent research and experimentation project exploring how on-chain market activity can be transformed into structured market intelligence.
 
-Launch Intelligence is currently being developed as a project rather than presented as a fully launched product.
-
-The long-term direction is to combine on-chain data, behavioral analysis, research workflows, and technology into better systems for investigating crypto markets.
+The project combines on-chain data, behavioral analysis, research workflows, and technology to investigate crypto markets and develop tools around the research.
 
 > **The blockchain leaves a trail. The challenge is learning how to read it.**
 
